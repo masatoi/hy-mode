@@ -26,9 +26,8 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 (require 'dash)
-(require 'dash-functional)
 (require 's)
 
 ;;; Syntax Methods
